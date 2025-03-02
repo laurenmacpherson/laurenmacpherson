@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lauren</h1>
+<h1 align="center">Hi 👋, I'm Lauren!</h1>
+
 - 🔭 I’m currently working on **a React Native diary app that exports in printable formats**
 
 - 🌱 I’m currently learning **React Native and Python**
