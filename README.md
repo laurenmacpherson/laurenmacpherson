@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lauren</h1>
-- 🔭 I’m currently working on **a React Native diary app that exports in printable formats.**
 
-- 🌱 I’m currently learning **React Native and Python**
+- 🔭 I’m currently working on **a React Native diary app that exports in printable formats**.
 
-- 💬 Ask me about **how I started programming**
+- 🌱 I’m currently learning **React Native and Python**.
+
+- 💬 Ask me about **how I started programming**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
